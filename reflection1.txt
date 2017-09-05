@@ -1,0 +1,35 @@
+//sample to test on GitHub
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    If i'd be able to see the changes i've done, i can easily identify bugs as it'd be easy to locate the line at which the change have been done before the bug was not appearing 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    This will save my time ofcourse and that can be utlized later on in another developing tasks.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual Setup can provide transparency that is good for trust issues and automatic save feature will enable the same time-saving feature but is devoid of the transparency
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I dont know, I think that only Git supports this feautre and not others. Or they might be.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log can be used to see the entire commits made in the repository. git diff commit1 commit2 to compare what changes were made in commit2 from commit1
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    git checkout commitId will help to restore the code to that commit, this will definitely help in identifying where the bug was appeared and the two files where the bug was occurred and the commit before it can be compared for changes about what is added and what is deleted
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'll use it to save my progress with the android projects
